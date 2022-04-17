@@ -1,0 +1,1 @@
+flux bootstrap github --owner=$GITHUB_USER --repository=FluxCD-GitOps --branch=main --path=rancher-desktop --personal
